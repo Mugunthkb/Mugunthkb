@@ -4,9 +4,9 @@
 
 ![Web Development Banner](https://www.digitalsolutionservices.com/img/services/web%20development.gif)  
 
-- 🚀 I'm currently working on **WED DEVELOPMENT project AND DEEPLEARNING**  
+- 🚀 I'm currently working on **WED DEVELOPMENT PROJECT AND DEEPLEARNING PROJECT**  
 - 📂 All of my projects are available at [My Portfolio](https://github.com/Mugunthkb)  
-- 📧 How to reach me: [vasanth.g029@gmail.com](mailto:mugunth.kb2005@gmail.com)  
+- 📧 How to reach me: [mugunth.kb2005@gmail.com](mailto:mugunth.kb2005@gmail.com)  
 
 ---
 
